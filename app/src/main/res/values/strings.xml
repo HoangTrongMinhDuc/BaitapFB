@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BaitapFB</string>
+
+    <string name="hint_email_phone">Email and phone number</string>
+    <string name="hint_pass">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_sign_up"><u>Sign up for Facebook</u></string>
+    <string name="help"><b>?</b></string>
+
+</resources>
